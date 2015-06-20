@@ -1,0 +1,9 @@
+<resources>
+    <color name="colorPrimary">#607d8b</color>
+    <color name="colorPrimaryDark">#546e7a</color>
+    <color name="colorAccent">#2196f3</color>
+    <color name="textColorPrimary">@android:color/white</color>
+    <color name="itemBackground">@android:color/background_light</color>
+    <color name="navigationBarColor">@android:color/transparent</color>
+    
+</resources>
